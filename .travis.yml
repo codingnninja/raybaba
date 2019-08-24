@@ -1,0 +1,14 @@
+language: node_js
+node_js: 
+  - "stable"
+cache:
+  directories:
+  - "$HOME/.npm"
+  script:
+  - npm run test
+
+deploy:
+  provider: npm
+  email: "ayobami_ogundiran@yahoo.com"
+  api_key: ""
+  
