@@ -10,5 +10,5 @@ cache:
 deploy:
   provider: npm
   email: "ayobami_ogundiran@yahoo.com"
-  api_key: ""
+  api_key: "MjhUQtaKZwtvmsgSNXmEUw"
   
