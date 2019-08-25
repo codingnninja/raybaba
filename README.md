@@ -1,4 +1,4 @@
-# LERRORS (Laravel-errors-and-solutions)
+# Raybabajs (A global wrapper for axios)
 
 >  An axios global wrapper that makes using ajax more easy and maintenable.
 
